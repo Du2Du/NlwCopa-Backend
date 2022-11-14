@@ -1,5 +1,4 @@
 import fastifyCors from "@fastify/cors";
-import fastifyEnv from "@fastify/env";
 import fastifyJwt from "@fastify/jwt";
 import Fastify from "fastify";
 import {
